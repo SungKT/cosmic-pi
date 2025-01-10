@@ -83,7 +83,7 @@ Cosmic Pi (CPi) is an innovative blockchain project that integrates Pi Coin as a
 
 ## Features
 - **Stablecoin Integration:** Pi Coin as a stable digital currency with a fixed value of $314.159 ( Three hundred fourteen thousand one hundred fifty-nine dollars )，
-- **DouDou Coin:** 豆豆币依托于Pi Coin产生，它的价值是$31415.926(Three hundred fourteen billion one hundred fifty-nine million Two hundred Six thousand)。
+- **DouDou Coin:** 豆豆币依托于Pi Coin产生，它的价值是$31415.926(Three hundred fourteen billion one hundred fifty-nine million Two hundred Six thousand dollars)。
 - **Intergalactic Payment System:** Seamless transactions across planets.
 - **Smart Contracts:** Automated agreements for resource management and transactions.
 - **Oracle Integration:** Real-time data access for informed decision-making.
