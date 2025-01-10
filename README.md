@@ -69,7 +69,7 @@
 [![ESA Space Debris](https://img.shields.io/badge/ESA-Space%20Debris%20Program-orange.svg)](https://www.esa.int/Safety_Security/Space_Debris)
 [![NASA Mars 2020](https://img.shields.io/badge/NASA-Mars%202020%20Mission-blue.svg)](https://mars.nasa.gov/mars2020/)
 [![JAXA International Space Station](https://img.shields.io/badge/JAXA-International%20Space%20Station%20Program-green.svg)](https://iss.jaxa.jp/en/)
-[![豆豆之家](https://img.shields.io/badge/JAXA-International%20Space%20Station%20Program-green.svg)](https://iss.jaxa.jp/en/)
+[![豆豆之家]](https://iss.jaxa.jp/en/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/cosmic-pi">CPi ( Cosmic Pi ) </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
@@ -83,7 +83,7 @@ Cosmic Pi (CPi) is an innovative blockchain project that integrates Pi Coin as a
 
 ## Features
 - **Stablecoin Integration:** Pi Coin as a stable digital currency with a fixed value of $314.159 ( Three hundred fourteen thousand one hundred fifty-nine dollars )，
-- **豆豆币依托于Pi Coin产生，它的价值是$31415.926(Three hundred fourteen billion one hundred fifty-nine million Two hundred Six thousand)。
+- **DouDou Coin:** 豆豆币依托于Pi Coin产生，它的价值是$31415.926(Three hundred fourteen billion one hundred fifty-nine million Two hundred Six thousand)。
 - **Intergalactic Payment System:** Seamless transactions across planets.
 - **Smart Contracts:** Automated agreements for resource management and transactions.
 - **Oracle Integration:** Real-time data access for informed decision-making.
