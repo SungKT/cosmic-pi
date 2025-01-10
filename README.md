@@ -81,7 +81,7 @@ A cutting-edge blockchain project integrating Pi Coin as a stablecoin for inters
 Cosmic Pi (CPi) is an innovative blockchain project that integrates Pi Coin as a stablecoin for interstellar transactions and resource tokenization. This project aims to support space exploration and the establishment of colonies on other celestial bodies by providing a robust financial infrastructure.
 
 ## Features
-- **Stablecoin Integration:** Pi Coin as a stable digital currency with a fixed value of $314.159 ( Three hundred fourteen thousand one hundred fifty-nine dollars ).
+- **Stablecoin Integration:** Pi Coin as a stable digital currency with a fixed value of $314.159 ( Three hundred fourteen thousand one hundred fifty-nine dollars )，豆豆币依托于Pi Coin，它的价值是$31415.926(Three hundred fourteen billion one hundred fifty-nine  million Two hundred Six thousand)
 - **Intergalactic Payment System:** Seamless transactions across planets.
 - **Smart Contracts:** Automated agreements for resource management and transactions.
 - **Oracle Integration:** Real-time data access for informed decision-making.
